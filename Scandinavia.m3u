@@ -1,0 +1,542 @@
+#EXTINF:-1,Kanal Hovedstaden
+https://59b954022ec35.streamlock.net:443/liveTV2/_definst_/smil:liveTVstream2.transcoder.smil/playlist.m3u8
+#EXTINF:-1,KKR TV
+http://stream.kkr.dk/live/ngrp:kkr_adaptive/chunklist.m3u8
+#EXTINF:-1,TV2 Bornholm
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+#EXTINF:-1,TV2 Fyn
+https://cdnapisec.kaltura.com/p/1966291/sp/196629100/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/uiConfId/30288171/a.m3u8?referrer=aHR0cHM6Ly93d3cudHYyZnluLmRr&playSessionId=d59870a6-313c-ead3-3510-cb5123b228f1
+#EXTINF:-1,TV2 Lorry
+https://cdnapisec.kaltura.com/p/2045321/sp/204532100/playManifest/entryId/1_2kojfk4m/format/applehttp/protocol/https/uiConfId/32599481/a.m3u8
+#EXTINF:-1,Taivas TV7
+http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/chunklist_w2131949141.m3u8
+#EXTINF:-1,YLE TV2 - github.com/Free-IPTV
+https://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/master.m3u8
+#EXTINF:-1,Canal Motor
+http://digicom.hls.iptvdc.com/canalmotor/pl.m3u8
+#EXTINF:-1,Frikanalen
+https://frikanalen.no/stream/stream_1.m3u8
+#EXTINF:-1,Kanal 10 - github.com/Free-IPTV
+http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8
+#EXTINF:-1,Stortinget Nett-TV
+http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8
+#EXTINF:-1,ATG Live
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
+#EXTINF:-1,Dagens Industri TV
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
+#EXTINF:-1,Expressen TV
+https://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx2_720p/chunklist_b3628000.m3u8
+#EXTINF:-1,Himlen TV 7
+http://vod.tv7.fi:1935/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8
+#EXTINF:-1,DE: ----- DE GERMANY -----
+http://alfatv.life:8080/kasim07/07kasim/135924
+#EXTINF:-1,DE: DAS ERSTE HD
+http://alfatv.life:8080/kasim07/07kasim/3463
+#EXTINF:-1,DE: ZDF HEVC
+http://alfatv.life:8080/kasim07/07kasim/286746
+#EXTINF:-1,DE: PRO 7 HD
+http://alfatv.life:8080/kasim07/07kasim/3427
+#EXTINF:-1,DE: PRO 7 FHD
+http://alfatv.life:8080/kasim07/07kasim/132820
+#EXTINF:-1,DE: VOXUP HD
+http://alfatv.life:8080/kasim07/07kasim/233300
+#EXTINF:-1,DE: KABEL EINS HD
+http://alfatv.life:8080/kasim07/07kasim/3471
+#EXTINF:-1,DE: KABEL EINS FHD
+http://alfatv.life:8080/kasim07/07kasim/132822
+#EXTINF:-1,DE: SIXX HD
+http://alfatv.life:8080/kasim07/07kasim/173743
+#EXTINF:-1,DE: SIXX FHD
+http://alfatv.life:8080/kasim07/07kasim/29035
+#EXTINF:-1,DE: SIXX HEVC
+http://alfatv.life:8080/kasim07/07kasim/356352
+#EXTINF:-1,DE: TELE 5 HD
+http://alfatv.life:8080/kasim07/07kasim/29037
+#EXTINF:-1,DE: PRO 7 MAXX HD
+http://alfatv.life:8080/kasim07/07kasim/3426
+#EXTINF:-1,DE: PRO 7 MAXX FHD
+http://alfatv.life:8080/kasim07/07kasim/132819
+#EXTINF:-1,DE: PRO 7 MAXX HEVC
+http://alfatv.life:8080/kasim07/07kasim/356354
+#EXTINF:-1,DE: PRO 7 FUN FHD
+http://alfatv.life:8080/kasim07/07kasim/30053
+#EXTINF:-1,DE: COMEDY CENTRAL HD
+http://alfatv.life:8080/kasim07/07kasim/132727
+#EXTINF:-1,DE: 3SAT FHD
+http://alfatv.life:8080/kasim07/07kasim/173451
+#EXTINF:-1,DE: SONNENKLAR TV HD
+http://alfatv.life:8080/kasim07/07kasim/198755
+#EXTINF:-1,DE: SERVUS TV DEUTSCHLAND FHD
+http://alfatv.life:8080/kasim07/07kasim/132729
+#EXTINF:-1,DE: HAMBURG 1
+http://alfatv.life:8080/kasim07/07kasim/302020
+#EXTINF:-1,DE: MUNCHEN.TV HD
+http://alfatv.life:8080/kasim07/07kasim/281053
+#EXTINF:-1,DE: RBB BERLIN HD
+http://alfatv.life:8080/kasim07/07kasim/250739
+#EXTINF:-1,DE: HR - FERNSEHEN HD
+http://alfatv.life:8080/kasim07/07kasim/172480
+#EXTINF:-1,DE: MDR HD
+http://alfatv.life:8080/kasim07/07kasim/173733
+#EXTINF:-1,DE: MDR FHD
+http://alfatv.life:8080/kasim07/07kasim/30051
+#EXTINF:-1,DE: NDR HD
+http://alfatv.life:8080/kasim07/07kasim/3429
+#EXTINF:-1,DE: NDR FHD
+http://alfatv.life:8080/kasim07/07kasim/173737
+#EXTINF:-1,DE: SWR BW HD
+http://alfatv.life:8080/kasim07/07kasim/3421
+#EXTINF:-1,DE: BR FERNSEHEN
+http://alfatv.life:8080/kasim07/07kasim/249393
+#EXTINF:-1,DE: BIBEL TV HD
+http://alfatv.life:8080/kasim07/07kasim/322141
+#EXTINF:-1,DE: BIBEL TV IMPULS HD
+http://alfatv.life:8080/kasim07/07kasim/332310
+#EXTINF:-1,DE: ----- DE KINDER -----
+http://alfatv.life:8080/kasim07/07kasim/135927
+#EXTINF:-1,DE: KIKA FHD
+http://alfatv.life:8080/kasim07/07kasim/8186
+#EXTINF:-1,DE: NICK JR
+http://alfatv.life:8080/kasim07/07kasim/255063
+#EXTINF:-1,DE: JUNIOR HD
+http://alfatv.life:8080/kasim07/07kasim/3437
+#EXTINF:-1,DE: CARTOON NETWORK HD
+http://alfatv.life:8080/kasim07/07kasim/8321
+#EXTINF:-1,DE: NICK - CC+1
+http://alfatv.life:8080/kasim07/07kasim/30359
+#EXTINF:-1,DE: NICKTOONS
+http://alfatv.life:8080/kasim07/07kasim/321702
+#EXTINF:-1,DE: BOOMERANG HD
+http://alfatv.life:8080/kasim07/07kasim/3449
+#EXTINF:-1,DE: BABY TV HD
+http://alfatv.life:8080/kasim07/07kasim/173567
+#EXTINF:-1,DE: SLTV DRAGON BALL HD
+http://alfatv.life:8080/kasim07/07kasim/400299
+#EXTINF:-1,DE: SLTV ONE PIECE HD
+http://alfatv.life:8080/kasim07/07kasim/400298
+#EXTINF:-1,DE: SLTV MICKYS CLUBHAUS HD
+http://alfatv.life:8080/kasim07/07kasim/400396
+#EXTINF:-1,DE: SLTV TIMON UND PUMBAA HD
+http://alfatv.life:8080/kasim07/07kasim/400300
+#EXTINF:-1,DE: SLTV SCHLUMPFE HD
+http://alfatv.life:8080/kasim07/07kasim/393817
+#EXTINF:-1,DE: SLTV GESCHICHTEN HD
+http://alfatv.life:8080/kasim07/07kasim/392588
+#EXTINF:-1,DE: SLTV BARBIE HD
+http://alfatv.life:8080/kasim07/07kasim/321693
+#EXTINF:-1,DE: ARD - ALPHA FHD
+http://alfatv.life:8080/kasim07/07kasim/195545
+#EXTINF:-1,DE: PHOENIX HD
+http://alfatv.life:8080/kasim07/07kasim/30052
+#EXTINF:-1,DE: N-TV HD
+http://alfatv.life:8080/kasim07/07kasim/173738
+#EXTINF:-1,DE: MTV DANCE
+http://alfatv.life:8080/kasim07/07kasim/230251
+#EXTINF:-1,DE: MTV 80S
+http://alfatv.life:8080/kasim07/07kasim/360620
+#EXTINF:-1,DE: MTV 90S
+http://alfatv.life:8080/kasim07/07kasim/230486
+#EXTINF:-1,DE: MYTVPLUS HD
+http://alfatv.life:8080/kasim07/07kasim/347428
+#EXTINF:-1,DE: GOLDSTAR TV HD
+http://alfatv.life:8080/kasim07/07kasim/371290
+#EXTINF:-1,DE: STINGRAY CLASSICA HD
+http://alfatv.life:8080/kasim07/07kasim/376535
+#EXTINF:-1,DE: VOLKSMUSIK TV
+http://alfatv.life:8080/kasim07/07kasim/390904
+#EXTINF:-1,DE: MELODIE TV NEU
+http://alfatv.life:8080/kasim07/07kasim/390903
+#EXTINF:-1,DE: SCHLAGER DELUXE
+http://alfatv.life:8080/kasim07/07kasim/390902
+#EXTINF:-1,DE: ----- DE KINO/SERIEN -----
+http://alfatv.life:8080/kasim07/07kasim/135925
+#EXTINF:-1,DE: DISNEY+ FHD
+http://alfatv.life:8080/kasim07/07kasim/300776
+#EXTINF:-1,DE: SKY CINEMA PREMIEREN HD
+http://alfatv.life:8080/kasim07/07kasim/3404
+#EXTINF:-1,DE: SKY CINEMA PREMIEREN FHD
+http://alfatv.life:8080/kasim07/07kasim/132815
+#EXTINF:-1,DE: SKY CINEMA PREMIEREN +24 HD
+http://alfatv.life:8080/kasim07/07kasim/3403
+#EXTINF:-1,DE: SKY CINEMA PREMIEREN +24 FHD
+http://alfatv.life:8080/kasim07/07kasim/132813
+#EXTINF:-1,DE: SKY CINEMA BEST OF HD
+http://alfatv.life:8080/kasim07/07kasim/132725
+#EXTINF:-1,DE: SKY CINEMA SPECIAL HD
+http://alfatv.life:8080/kasim07/07kasim/232471
+#EXTINF:-1,DE: SKY CINEMA SPECIAL FHD
+http://alfatv.life:8080/kasim07/07kasim/311996
+#EXTINF:-1,DE: SKY CINEMA THRILLER HD
+http://alfatv.life:8080/kasim07/07kasim/3402
+#EXTINF:-1,DE: SKY CINEMA THRILLER FHD
+http://alfatv.life:8080/kasim07/07kasim/132814
+#EXTINF:-1,DE: SKY CINEMA CLASSICS HD
+http://alfatv.life:8080/kasim07/07kasim/3396
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://alfatv.life:8080/kasim07/07kasim/3416
+#EXTINF:-1,DE: SKY ATLANTIC FHD
+http://alfatv.life:8080/kasim07/07kasim/132811
+#EXTINF:-1,DE: SKY ONE FHD
+http://alfatv.life:8080/kasim07/07kasim/30041
+#EXTINF:-1,DE: SKY REPLAY FHD
+http://alfatv.life:8080/kasim07/07kasim/313512
+#EXTINF:-1,DE: SKY COMEDY FHD
+http://alfatv.life:8080/kasim07/07kasim/332936
+#EXTINF:-1,DE: 13TH STREET FHD
+http://alfatv.life:8080/kasim07/07kasim/173450
+#EXTINF:-1,DE: CRIME + INVESTIGATION HD
+http://alfatv.life:8080/kasim07/07kasim/30045
+#EXTINF:-1,DE: E! ENTERTAINMENT FHD
+http://alfatv.life:8080/kasim07/07kasim/30048
+#EXTINF:-1,DE: KABEL EINS CLASSICS FHD
+http://alfatv.life:8080/kasim07/07kasim/29036
+#EXTINF:-1,DE: HEIMATKANAL HD
+http://alfatv.life:8080/kasim07/07kasim/352930
+#EXTINF:-1,DE: SAT 1 EMOTIONS FHD
+http://alfatv.life:8080/kasim07/07kasim/133917
+#EXTINF:-1,DE: SAT 1 GOLD FHD
+http://alfatv.life:8080/kasim07/07kasim/30356
+#EXTINF:-1,DE: RTL CRIME HD
+http://alfatv.life:8080/kasim07/07kasim/172482
+#EXTINF:-1,DE: RTL CRIME FHD
+http://alfatv.life:8080/kasim07/07kasim/173741
+#EXTINF:-1,DE: RTL PASSION HD
+http://alfatv.life:8080/kasim07/07kasim/164963
+#EXTINF:-1,DE: RTL PASSION FHD
+http://alfatv.life:8080/kasim07/07kasim/173742
+#EXTINF:-1,DE: KINOWELT HD
+http://alfatv.life:8080/kasim07/07kasim/30050
+#EXTINF:-1,DE: SKY SELECT PREMIERE VITRINE HD
+http://alfatv.life:8080/kasim07/07kasim/135775
+#EXTINF:-1,DE: SKY SELECT PREMIERE 1 FHD
+http://alfatv.life:8080/kasim07/07kasim/3395
+#EXTINF:-1,DE: SKY SELECT PREMIERE 2 FHD
+http://alfatv.life:8080/kasim07/07kasim/3394
+#EXTINF:-1,DE: SKY SELECT PREMIERE 3 FHD
+http://alfatv.life:8080/kasim07/07kasim/3393
+#EXTINF:-1,DE: SKY SELECT PREMIERE 9 FHD
+http://alfatv.life:8080/kasim07/07kasim/135785
+#EXTINF:-1,DE: SKY SELECT PREMIERE 16 FHD
+http://alfatv.life:8080/kasim07/07kasim/135778
+#EXTINF:-1,DE: SKY SELECT PREMIERE 17 FHD
+http://alfatv.life:8080/kasim07/07kasim/135777
+#EXTINF:-1,DE: SKY SELECT PREMIERE 18 FHD
+http://alfatv.life:8080/kasim07/07kasim/135776
+#EXTINF:-1,DE: ----- MAX -----
+http://alfatv.life:8080/kasim07/07kasim/225443
+#EXTINF:-1,DE: KINO ACTION HD
+http://alfatv.life:8080/kasim07/07kasim/331694
+#EXTINF:-1,DE: KINO HORROR HD
+http://alfatv.life:8080/kasim07/07kasim/331692
+#EXTINF:-1,DE: KINO SCIFI HD
+http://alfatv.life:8080/kasim07/07kasim/331691
+#EXTINF:-1,DE: KINO ANIMATION HD
+http://alfatv.life:8080/kasim07/07kasim/331690
+#EXTINF:-1,DE: KINO DRAMA HD
+http://alfatv.life:8080/kasim07/07kasim/331689
+#EXTINF:-1,DE: KINO COMEDY HD
+http://alfatv.life:8080/kasim07/07kasim/331688
+#EXTINF:-1,DE: KINO CRIME HD
+http://alfatv.life:8080/kasim07/07kasim/331687
+#EXTINF:-1,DE: ----- CINE STAR -----
+http://alfatv.life:8080/kasim07/07kasim/334271
+#EXTINF:-1,DE: CINE STAR SCI-FI HD
+http://alfatv.life:8080/kasim07/07kasim/334262
+#EXTINF:-1,DE: CINE STAR HORROR HD
+http://alfatv.life:8080/kasim07/07kasim/334261
+#EXTINF:-1,DE: CINE STAR ACTION HD
+http://alfatv.life:8080/kasim07/07kasim/334270
+#EXTINF:-1,DE: CINE STAR ANIMATION HD
+http://alfatv.life:8080/kasim07/07kasim/334269
+#EXTINF:-1,DE: SLTV 24 - 7 DER PATE FHD
+http://alfatv.life:8080/kasim07/07kasim/396079
+#EXTINF:-1,DE: SLTV 24 - 7 FAST AND FURIOUS FHD
+http://alfatv.life:8080/kasim07/07kasim/401445
+#EXTINF:-1,DE: SLTV 24 - 7 BAD BOYS FHD
+http://alfatv.life:8080/kasim07/07kasim/401453
+#EXTINF:-1,DE: SLTV 24 - 7 BATMAN FHD
+http://alfatv.life:8080/kasim07/07kasim/401452
+#EXTINF:-1,DE: SLTV 24 - 7 HARRY POTTER FHD
+http://alfatv.life:8080/kasim07/07kasim/401346
+#EXTINF:-1,DE: SLTV 24 - 7 AMERICAN PIE FHD
+http://alfatv.life:8080/kasim07/07kasim/401454
+#EXTINF:-1,DE: SLTV 24 - 7 NIGHTMARE FHD
+http://alfatv.life:8080/kasim07/07kasim/401451
+#EXTINF:-1,DE: SLTV 24 - 7 ALIEN FHD
+http://alfatv.life:8080/kasim07/07kasim/401450
+#EXTINF:-1,DE: SLTV 24 - 7 FLUCH DER KARIBIK FHD
+http://alfatv.life:8080/kasim07/07kasim/401449
+#EXTINF:-1,DE: SLTV 24 - 7 DREI ENGEL FUR CHARLIE FHD
+http://alfatv.life:8080/kasim07/07kasim/401448
+#EXTINF:-1,DE: SLTV 24 - 7 A CHINESE GHOST STORY FHD
+http://alfatv.life:8080/kasim07/07kasim/401447
+#EXTINF:-1,DE: SLTV 24 - 7 96 HOURS TAKEN FHD
+http://alfatv.life:8080/kasim07/07kasim/401446
+#EXTINF:-1,DE: SLTV 24 - 7 CONAN FHD
+http://alfatv.life:8080/kasim07/07kasim/401395
+#EXTINF:-1,DE: SLTV 24 - 7 GHOSTBUSTERS FHD
+http://alfatv.life:8080/kasim07/07kasim/401394
+#EXTINF:-1,DE: SLTV 24 - 7 DER HERR DER RINGE FHD
+http://alfatv.life:8080/kasim07/07kasim/401393
+#EXTINF:-1,DE: SLTV 24 - 7 HANNIBAL FHD
+http://alfatv.life:8080/kasim07/07kasim/401391
+#EXTINF:-1,DE: SLTV 24 - 7 POLICE ACADEMY FHD
+http://alfatv.life:8080/kasim07/07kasim/401354
+#EXTINF:-1,DE: SLTV 24 - 7 MISSION IMPOSSIBLE FHD
+http://alfatv.life:8080/kasim07/07kasim/401353
+#EXTINF:-1,DE: SLTV 24 - 7 KARLY MAY FHD
+http://alfatv.life:8080/kasim07/07kasim/401351
+#EXTINF:-1,DE: SLTV 24 - 7 KARATE KID FHD
+http://alfatv.life:8080/kasim07/07kasim/401350
+#EXTINF:-1,DE: SLTV 24 - 7 JURASSIC PARK FHD
+http://alfatv.life:8080/kasim07/07kasim/401349
+#EXTINF:-1,DE: SLTV 24 - 7 JOHN WICK FHD
+http://alfatv.life:8080/kasim07/07kasim/401348
+#EXTINF:-1,DE: SLTV 24 - 7 HAS FALLEN FHD
+http://alfatv.life:8080/kasim07/07kasim/401347
+#EXTINF:-1,DE: SLTV 24 - 7 RESIDENT EVIL FHD
+http://alfatv.life:8080/kasim07/07kasim/401290
+#EXTINF:-1,DE: SLTV 24 - 7 ROBOCOP FHD
+http://alfatv.life:8080/kasim07/07kasim/401288
+#EXTINF:-1,DE: SLTV 24 - 7 STAR TREK FHD
+http://alfatv.life:8080/kasim07/07kasim/401287
+#EXTINF:-1,DE: SLTV 24 - 7 SHERLOCK HOLMES FHD
+http://alfatv.life:8080/kasim07/07kasim/401286
+#EXTINF:-1,DE: SLTV 24 - 7 SAW FHD
+http://alfatv.life:8080/kasim07/07kasim/401285
+#EXTINF:-1,DE: SLTV 24 - 7 TRANSPORTER FHD
+http://alfatv.life:8080/kasim07/07kasim/401051
+#EXTINF:-1,DE: SLTV 24 - 7 TERMINATOR FHD
+http://alfatv.life:8080/kasim07/07kasim/401050
+#EXTINF:-1,DE: SLTV 24 - 7 SCORPION KING FHD
+http://alfatv.life:8080/kasim07/07kasim/401049
+#EXTINF:-1,DE: SLTV 24 - 7 TRANSFORMERS FHD
+http://alfatv.life:8080/kasim07/07kasim/401048
+#EXTINF:-1,DE: SLTV 24 - 7 TAXI FHD
+http://alfatv.life:8080/kasim07/07kasim/401047
+#EXTINF:-1,DE: SLTV 24 - 7 STAR WARS FHD
+http://alfatv.life:8080/kasim07/07kasim/401046
+#EXTINF:-1,DE: SLTV 24 - 7 SUPERMAN FHD
+http://alfatv.life:8080/kasim07/07kasim/401045
+#EXTINF:-1,DE: SLTV 24 - 7 X-MEN FHD
+http://alfatv.life:8080/kasim07/07kasim/400647
+#EXTINF:-1,DE: ----- DE DOKU -----
+http://alfatv.life:8080/kasim07/07kasim/135928
+#EXTINF:-1,DE: WAIDWERK HD
+http://alfatv.life:8080/kasim07/07kasim/332200
+#EXTINF:-1,DE: ARTE HD
+http://alfatv.life:8080/kasim07/07kasim/3458
+#EXTINF:-1,DE: ARTE FHD
+http://alfatv.life:8080/kasim07/07kasim/132826
+#EXTINF:-1,DE: DMAX HD
+http://alfatv.life:8080/kasim07/07kasim/3441
+#EXTINF:-1,DE: DMAX FHD
+http://alfatv.life:8080/kasim07/07kasim/3464
+#EXTINF:-1,DE: N24 DOKU
+http://alfatv.life:8080/kasim07/07kasim/30391
+#EXTINF:-1,DE: SKY NATURE FHD
+http://alfatv.life:8080/kasim07/07kasim/377956
+#EXTINF:-1,DE: SKY DOCUMENTARIES FHD
+http://alfatv.life:8080/kasim07/07kasim/377955
+#EXTINF:-1,DE: NAT GEO WILD HD
+http://alfatv.life:8080/kasim07/07kasim/3454
+#EXTINF:-1,DE: NAT GEO WILD FHD
+http://alfatv.life:8080/kasim07/07kasim/173736
+#EXTINF:-1,DE: ANIMAL PLANET HD
+http://alfatv.life:8080/kasim07/07kasim/173453
+#EXTINF:-1,DE: ANIMAL PLANET FHD
+http://alfatv.life:8080/kasim07/07kasim/30046
+#EXTINF:-1,DE: NATIONAL GEOGRAPHIC HD
+http://alfatv.life:8080/kasim07/07kasim/173734
+#EXTINF:-1,DE: NATIONAL GEOGRAPHIC  FHD
+http://alfatv.life:8080/kasim07/07kasim/3455
+#EXTINF:-1,DE: DISCOVERY CHANNEL HD
+http://alfatv.life:8080/kasim07/07kasim/3446
+#EXTINF:-1,DE: DISCOVERY CHANNEL FHD
+http://alfatv.life:8080/kasim07/07kasim/173671
+#EXTINF:-1,DE: HISTORY HD
+http://alfatv.life:8080/kasim07/07kasim/3439
+#EXTINF:-1,DE: HISTORY FHD
+http://alfatv.life:8080/kasim07/07kasim/173732
+#EXTINF:-1,DE: ZDF INFO HD
+http://alfatv.life:8080/kasim07/07kasim/3487
+#EXTINF:-1,DE: ZDF NEO HD
+http://alfatv.life:8080/kasim07/07kasim/3489
+#EXTINF:-1,DE: BILD FHD
+http://alfatv.life:8080/kasim07/07kasim/376534
+#EXTINF:-1,DE: N-TV HEVC
+http://alfatv.life:8080/kasim07/07kasim/356351
+#EXTINF:-1,DE: UHD 1
+http://alfatv.life:8080/kasim07/07kasim/378363
+#EXTINF:-1,DE: QVC UHD
+http://alfatv.life:8080/kasim07/07kasim/378112
+#EXTINF:-1,DE: QVC ZWEI UHD
+http://alfatv.life:8080/kasim07/07kasim/378113
+#EXTINF:-1,DE: TLC HD
+http://alfatv.life:8080/kasim07/07kasim/3365
+#EXTINF:-1,DE: KABEL EINS DOKU FHD
+http://alfatv.life:8080/kasim07/07kasim/30388
+#EXTINF:-1,DE: BERGBLICK HD
+http://alfatv.life:8080/kasim07/07kasim/30044
+#EXTINF:-1,DE: SPIEGEL GESCHICHTE FHD
+http://alfatv.life:8080/kasim07/07kasim/3485
+#EXTINF:-1,DE: SPIEGEL TV WISSEN HD
+http://alfatv.life:8080/kasim07/07kasim/132728
+#EXTINF:-1,DE: ----- DE SPORT -----
+http://alfatv.life:8080/kasim07/07kasim/135926
+#EXTINF:-1,DE: DAZN 1 BAR HD
+http://alfatv.life:8080/kasim07/07kasim/161313
+#EXTINF:-1,DE: DAZN 1 BAR FHD
+http://alfatv.life:8080/kasim07/07kasim/184952
+#EXTINF:-1,DE: DAZN 1 BAR HEVC
+http://alfatv.life:8080/kasim07/07kasim/356341
+#EXTINF:-1,DE: DAZN 2 BAR HD
+http://alfatv.life:8080/kasim07/07kasim/161314
+#EXTINF:-1,DE: DAZN 2 BAR FHD
+http://alfatv.life:8080/kasim07/07kasim/184953
+#EXTINF:-1,DE: DAZN 2 BAR HEVC
+http://alfatv.life:8080/kasim07/07kasim/356359
+#EXTINF:-1,DE: FC BAYERN TV HD
+http://alfatv.life:8080/kasim07/07kasim/234999
+#EXTINF:-1,DE: SPORT 1 HD
+http://alfatv.life:8080/kasim07/07kasim/3373
+#EXTINF:-1,DE: SPORT 1 FHD
+http://alfatv.life:8080/kasim07/07kasim/30357
+#EXTINF:-1,DE: SPORT 1 HEVC
+http://alfatv.life:8080/kasim07/07kasim/3375
+#EXTINF:-1,DE: SPORT1+ HD
+http://alfatv.life:8080/kasim07/07kasim/246365
+#EXTINF:-1,DE: MOTORVISION HD
+http://alfatv.life:8080/kasim07/07kasim/3433
+#EXTINF:-1,DE: SPORTDIGITAL FUSSBALL HD
+http://alfatv.life:8080/kasim07/07kasim/235605
+#EXTINF:-1,DE: AUTO MOTOR SPORT CHANNEL HD
+http://alfatv.life:8080/kasim07/07kasim/132513
+#EXTINF:-1,DE: ESPORTS1 HD
+http://alfatv.life:8080/kasim07/07kasim/235606
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http://alfatv.life:8080/kasim07/07kasim/3440
+#EXTINF:-1,DE: EUROSPORT 1 FHD
+http://alfatv.life:8080/kasim07/07kasim/173729
+#EXTINF:-1,DE: EUROSPORT 2 FHD
+http://alfatv.life:8080/kasim07/07kasim/30049
+#EXTINF:-1,DE: WWE HD
+http://alfatv.life:8080/kasim07/07kasim/240944
+#EXTINF:-1,DE: ----- SKY SPORT -----
+http://alfatv.life:8080/kasim07/07kasim/379525
+#EXTINF:-1,DE: SKY SPORT NEWS HD
+http://alfatv.life:8080/kasim07/07kasim/3374
+#EXTINF:-1,DE: SKY SPORT NEWS FHD
+http://alfatv.life:8080/kasim07/07kasim/132799
+#EXTINF:-1,DE: SKY SPORT NEWS HEVC
+http://alfatv.life:8080/kasim07/07kasim/356347
+#EXTINF:-1,DE: SKY SPORT AUSTRIA HD
+http://alfatv.life:8080/kasim07/07kasim/3377
+#EXTINF:-1,DE: SKY SPORT AUSTRIA FHD
+http://alfatv.life:8080/kasim07/07kasim/132800
+#EXTINF:-1,DE: SKY SPORT F1 HD
+http://alfatv.life:8080/kasim07/07kasim/366496
+#EXTINF:-1,DE: SKY SPORT F1 FHD
+http://alfatv.life:8080/kasim07/07kasim/330461
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://alfatv.life:8080/kasim07/07kasim/30036
+#EXTINF:-1,DE: SKY SPORT 1 FHD
+http://alfatv.life:8080/kasim07/07kasim/132798
+#EXTINF:-1,DE: SKY SPORT 1 HEVC
+http://alfatv.life:8080/kasim07/07kasim/356346
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://alfatv.life:8080/kasim07/07kasim/30039
+#EXTINF:-1,DE: SKY SPORT 2 FHD
+http://alfatv.life:8080/kasim07/07kasim/132797
+#EXTINF:-1,DE: SKY SPORT 2 HEVC
+http://alfatv.life:8080/kasim07/07kasim/356345
+#EXTINF:-1,DE: ----- BUNDESLIGA -----
+http://alfatv.life:8080/kasim07/07kasim/225445
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 1 HD
+http://alfatv.life:8080/kasim07/07kasim/29997
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 1 FHD
+http://alfatv.life:8080/kasim07/07kasim/3415
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 1 HEVC
+http://alfatv.life:8080/kasim07/07kasim/356343
+#EXTINF:-1,DE: SKY SPORT 1 UHD - BUNDESLIGA 1 UHD - F1 UHD
+http://alfatv.life:8080/kasim07/07kasim/132807
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 2 HD (Only Live Event)
+http://alfatv.life:8080/kasim07/07kasim/3413
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 2 FHD (Only Live Event)
+http://alfatv.life:8080/kasim07/07kasim/132806
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 3 HD (Only Live Event)
+http://alfatv.life:8080/kasim07/07kasim/3412
+#EXTINF:-1,DE: SKY SPORT BUNDESLIGA 3 FHD (Only Live Event)
+http://alfatv.life:8080/kasim07/07kasim/132805
+#EXTINF:-1,DE: ----- TELEKOM -----
+http://alfatv.life:8080/kasim07/07kasim/225446
+#EXTINF:-1,DE: TELEKOM PPV 1 HD (Only Live Event)
+http://alfatv.life:8080/kasim07/07kasim/176360
+#EXTINF:-1,DE: TELEKOM PPV 2 HD (Only Live Event)
+http://alfatv.life:8080/kasim07/07kasim/176359
+#EXTINF:-1,DE: TELEKOM PPV 9 HD (Only Live Event)
+http://alfatv.life:8080/kasim07/07kasim/368399
+#EXTINF:-1,DE: TELEKOM PPV 15 HD (Only Live Event)
+http://alfatv.life:8080/kasim07/07kasim/227661
+#EXTINF:-1,DE: TELEKOM PPV 16 HD (Only Live Event)
+http://alfatv.life:8080/kasim07/07kasim/227662
+#EXTINF:-1,DE: TELEKOM PPV 17 HD (Only Live Event)
+http://alfatv.life:8080/kasim07/07kasim/227663
+#EXTINF:-1,DE: TELEKOM PPV 18 HD (Only Live Event)
+http://alfatv.life:8080/kasim07/07kasim/227664
+#EXTINF:-1,DE: TELEKOM PPV 19 HD (Only Live Event)
+http://alfatv.life:8080/kasim07/07kasim/339251
+#EXTINF:-1,DE: TELEKOM PPV 20 HD (Only Live Event)
+http://alfatv.life:8080/kasim07/07kasim/339255
+#EXTINF:-1,DE: TELEKOM PPV 21 HD (Only Live Event)
+http://alfatv.life:8080/kasim07/07kasim/339256
+#EXTINF:-1,DE: TELEKOM PPV 22 HD (Only Live Event)
+http://alfatv.life:8080/kasim07/07kasim/339257
+#EXTINF:-1,DE: TELEKOM PPV 23 HD (Only Live Event)
+http://alfatv.life:8080/kasim07/07kasim/394845
+#EXTINF:-1,DE: VIP RTL 2 HD
+http://alfatv.life:8080/kasim07/07kasim/377319
+#EXTINF:-1,DE: VIP PRO 7 FUN HD
+http://alfatv.life:8080/kasim07/07kasim/377321
+#EXTINF:-1,DE: VIP COMEDY CENTRAL HD
+http://alfatv.life:8080/kasim07/07kasim/377294
+#EXTINF:-1,DE: VIP NITRO HD
+http://alfatv.life:8080/kasim07/07kasim/377316
+#EXTINF:-1,DE: VIP ANIXE+ HD
+http://alfatv.life:8080/kasim07/07kasim/377297
+#EXTINF:-1,DE: VIP RTL LIVING HD
+http://alfatv.life:8080/kasim07/07kasim/377314
+#EXTINF:-1,DE: VIP SAT 1 GOLD HD
+http://alfatv.life:8080/kasim07/07kasim/377325
+#EXTINF:-1,DE: VIP DMAX HD
+http://alfatv.life:8080/kasim07/07kasim/377329
+#EXTINF:-1,DE: VIP ZDF INFO HD
+http://alfatv.life:8080/kasim07/07kasim/377338
+#EXTINF:-1,DE: VIP GEO TV HD
+http://alfatv.life:8080/kasim07/07kasim/377246
+#EXTINF:-1,DE: VIP KIKA HD
+http://alfatv.life:8080/kasim07/07kasim/377283
+#EXTINF:-1,DE: VIP BOOMERANG HD
+http://alfatv.life:8080/kasim07/07kasim/377287
+#EXTINF:-1,DE: VIP NICKELODEON HD
+http://alfatv.life:8080/kasim07/07kasim/377291
+#EXTINF:-1,DE: ----- VIP NEWS/INFORMATION -----
+http://alfatv.life:8080/kasim07/07kasim/377650
+#EXTINF:-1,DE: VIP ARD - ALPHA HD
+http://alfatv.life:8080/kasim07/07kasim/377342
+#EXTINF:-1,DE: VIP N-TV HD
+http://alfatv.life:8080/kasim07/07kasim/377333
+#EXTINF:-1,DE: VIP TAGESSCHAU24 HD
+http://alfatv.life:8080/kasim07/07kasim/377341
+#EXTINF:-1,DE: VIP WELT HD
+http://alfatv.life:8080/kasim07/07kasim/377334
+#EXTINF:-1,DE: VIP BON GUSTO HD
+http://alfatv.life:8080/kasim07/07kasim/377243
+#EXTINF:-1,DE: VIP HGTV HD
+http://alfatv.life:8080/kasim07/07kasim/377245
+#EXTINF:-1,DE: VIP SKY SPORT F1 HD
+http://alfatv.life:8080/kasim07/07kasim/397326
+#EXTINF:-1,DE: VIP SKY SPORT 1 HD
+http://alfatv.life:8080/kasim07/07kasim/378153
+#EXTINF:-1,DE: VIP SKY SPORT 2 HD
+http://alfatv.life:8080/kasim07/07kasim/378152
